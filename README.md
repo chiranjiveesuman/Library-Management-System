@@ -1,0 +1,2 @@
+# Library Management System
+ A Java-based project that simulates a simple library management system. It allows users to add, search, and manage books within a library. The system includes book objects with title, author, and availability attributes, and provides a text-based user interface for adding books to the library, searching for books, and checking them out. This project demonstrates proficiency in object-oriented programming, user interaction, data storage, and basic error handling.
